@@ -55,7 +55,7 @@ bar plot heart data
 
 We have 165 people with heart disease and 138 people without heart disease, so our problem is balanced.
 
-# Checking for messing values
+# Checking for missing values
 df.isna().sum()
 
 age         0
